@@ -1,6 +1,7 @@
 ﻿# Absolute C++ Sixth edition by Walter Savitch, Pearson
 
 Practical programming problems solved in C++20, organized by chapter and topic.
+It containes games, namely Poker, Blackjack, Game of Life and much more.
 
 ## Introduction
 
